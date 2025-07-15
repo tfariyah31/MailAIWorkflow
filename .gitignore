@@ -1,0 +1,7 @@
+__pycache__/
+credentials/credentials.json
+credentials/token.json
+venv/
+assets/resume.pdf
+mail_automation.log
+src/fine_tuned_model/
